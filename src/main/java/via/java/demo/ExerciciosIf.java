@@ -31,6 +31,7 @@ public class ExerciciosIf extends Object{
             System.out.println("Valor está entre 10 e 100");
         }
     }
+
 }
 
 /*
@@ -39,10 +40,19 @@ public class ExerciciosIf extends Object{
  Caso seja imprima no terminal que o valor é menor ou igual a 100
 
 2. Receba um valor inteiro e verifique se o valor está entre 10 e 100.
+<<<<<<< HEAD
 Caso seja imprima no terminal que o valor está entre 10 e 100. (Use if encadeado)
 
 3. Receba um valor inteiro e verifique se o valor está entre 10 e 100.
 Caso seja imprima no terminal que o valor está entre 10 e 100. (Use uma condição concatenada)
+=======
+Caso seja imprima no terminal que o valor está entre 10 e 100.
+(Use if encadeado)
+
+3. Receba um valor inteiro e verifique se o valor está entre 10 e 100.
+Caso seja imprima no terminal que o valor está entre 10 e 100.
+(Use uma condição concatenada)
+>>>>>>> upstream/main
 
 
 */
